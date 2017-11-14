@@ -1,0 +1,14 @@
+D:\programming\SpecFlowTest\SpecFlow2\bin\Debug\SpecFlow2.exe.config
+D:\programming\SpecFlowTest\SpecFlow2\obj\Debug\SpecFlow2.csprojResolveAssemblyReference.cache
+D:\programming\SpecFlowTest\SpecFlow2\bin\Debug\SpecFlow2.exe
+D:\programming\SpecFlowTest\SpecFlow2\bin\Debug\SpecFlow2.pdb
+D:\programming\SpecFlowTest\SpecFlow2\bin\Debug\ImpromptuInterface.dll
+D:\programming\SpecFlowTest\SpecFlow2\bin\Debug\Newtonsoft.Json.dll
+D:\programming\SpecFlowTest\SpecFlow2\bin\Debug\nunit.framework.dll
+D:\programming\SpecFlowTest\SpecFlow2\bin\Debug\SpecFlow.Assist.Dynamic.dll
+D:\programming\SpecFlowTest\SpecFlow2\bin\Debug\TechTalk.SpecFlow.dll
+D:\programming\SpecFlowTest\SpecFlow2\bin\Debug\ImpromptuInterface.xml
+D:\programming\SpecFlowTest\SpecFlow2\bin\Debug\Newtonsoft.Json.xml
+D:\programming\SpecFlowTest\SpecFlow2\bin\Debug\nunit.framework.xml
+D:\programming\SpecFlowTest\SpecFlow2\obj\Debug\SpecFlow2.exe
+D:\programming\SpecFlowTest\SpecFlow2\obj\Debug\SpecFlow2.pdb

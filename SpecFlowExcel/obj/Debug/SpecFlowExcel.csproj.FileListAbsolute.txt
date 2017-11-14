@@ -1,0 +1,11 @@
+D:\programming\SpecFlowTest\SpecFlowExcel\bin\Debug\SpecFlowExcel.exe.config
+D:\programming\SpecFlowTest\SpecFlowExcel\bin\Debug\SpecFlowExcel.exe
+D:\programming\SpecFlowTest\SpecFlowExcel\bin\Debug\SpecFlowExcel.pdb
+D:\programming\SpecFlowTest\SpecFlowExcel\bin\Debug\Newtonsoft.Json.dll
+D:\programming\SpecFlowTest\SpecFlowExcel\bin\Debug\nunit.framework.dll
+D:\programming\SpecFlowTest\SpecFlowExcel\bin\Debug\TechTalk.SpecFlow.dll
+D:\programming\SpecFlowTest\SpecFlowExcel\bin\Debug\Newtonsoft.Json.xml
+D:\programming\SpecFlowTest\SpecFlowExcel\bin\Debug\nunit.framework.xml
+D:\programming\SpecFlowTest\SpecFlowExcel\obj\Debug\SpecFlowExcel.csprojResolveAssemblyReference.cache
+D:\programming\SpecFlowTest\SpecFlowExcel\obj\Debug\SpecFlowExcel.exe
+D:\programming\SpecFlowTest\SpecFlowExcel\obj\Debug\SpecFlowExcel.pdb

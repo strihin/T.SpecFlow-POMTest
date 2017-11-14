@@ -1,0 +1,16 @@
+D:\programming\SpecFlowTest\SpecFlowTest\obj\Debug\SpecFlowTest.csprojResolveAssemblyReference.cache
+D:\programming\SpecFlowTest\SpecFlowTest\bin\Debug\SpecFlowTest.dll.config
+D:\programming\SpecFlowTest\SpecFlowTest\bin\Debug\SpecFlowTest.dll
+D:\programming\SpecFlowTest\SpecFlowTest\bin\Debug\SpecFlowTest.pdb
+D:\programming\SpecFlowTest\SpecFlowTest\bin\Debug\Newtonsoft.Json.dll
+D:\programming\SpecFlowTest\SpecFlowTest\bin\Debug\nunit.framework.dll
+D:\programming\SpecFlowTest\SpecFlowTest\bin\Debug\TechTalk.SpecFlow.dll
+D:\programming\SpecFlowTest\SpecFlowTest\bin\Debug\Newtonsoft.Json.xml
+D:\programming\SpecFlowTest\SpecFlowTest\bin\Debug\nunit.framework.xml
+D:\programming\SpecFlowTest\SpecFlowTest\obj\Debug\SpecFlowTest.dll
+D:\programming\SpecFlowTest\SpecFlowTest\obj\Debug\SpecFlowTest.pdb
+D:\programming\SpecFlowTest\SpecFlowTest\bin\Debug\Faker.NET4.dll
+D:\programming\SpecFlowTest\SpecFlowTest\bin\Debug\de-DE\Faker.NET4.resources.dll
+D:\programming\SpecFlowTest\SpecFlowTest\bin\Debug\ImpromptuInterface.dll
+D:\programming\SpecFlowTest\SpecFlowTest\bin\Debug\SpecFlow.Assist.Dynamic.dll
+D:\programming\SpecFlowTest\SpecFlowTest\bin\Debug\ImpromptuInterface.xml
