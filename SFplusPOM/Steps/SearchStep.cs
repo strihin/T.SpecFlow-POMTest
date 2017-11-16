@@ -16,7 +16,7 @@ namespace SFplusPOM.Steps
         [Given(@"I have navigated to Google page")]
         public void GivenIHaveNavigatedToGooglePage()
         {
-	        Browser.Current.Navigate().GoToUrl(ConfigurationManager.AppSettings["seleniumBaseUrl"];
+	        Browser.Current.Navigate().GoToUrl(ConfigurationManager.AppSettings["seleniumBaseUrl"]);
 	        currentDriver = Browser.Current;
         }
 

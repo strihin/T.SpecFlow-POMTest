@@ -1,7 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Text;
+using Baseclass.Contrib.SpecFlow.Selenium.NUnit.Bindings;
+using OpenQA.Selenium;
+using SFplusPOM.Pages;
 using TechTalk.SpecFlow;
 
 namespace SFplusPOM.Steps
@@ -9,16 +13,18 @@ namespace SFplusPOM.Steps
     [Binding]
     public sealed class LoginSteps
     {
+        private IWebDriver currentDriver = null;
+        LoginPage loginPage = new LoginPage();
         [Given(@"I have navigated to my app")]
         public void GivenIHaveNavigatedToMyApp()
         {
-            ScenarioContext.Current.Pending();
+            Browser.Current.Navigate().GoToUrl(ConfigurationManager.AppSettings["seleniumBaseUrl"]);
+            currentDriver = Browser.Current;
         }
-
-        [Given(@"I typed the admin and admin")]
-        public void GivenITypedTheAdminAndAdmin()
+        [Given(@"I typed the (.*) and (.*)")]
+        public void GivenITypedTheAnd(string username, string password)
         {
-            ScenarioContext.Current.Pending();
+            loginPage.Login(username, password);
         }
 
         [When(@"I click login button")]
